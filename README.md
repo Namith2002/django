@@ -1,5 +1,5 @@
-"# django" 
-is a lightweight Django starter project.
+# django 
+- is a lightweight Django starter project.
 
 ## Features
 - Django 4.x
